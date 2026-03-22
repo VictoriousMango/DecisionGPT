@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Environment Variables
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
